@@ -25,9 +25,9 @@ console.log(`A multiplicação de ${num1} e ${num2} é ${resultado}.`)
 +---------------------------+
 |       SAUDAÇÂO            |
 |                           |
-|  nome<string> = José               |
-|  num2 = 75               |
-|  resultado = 750         |
+|  nome<string> = José       |
+|  return = Olá               |
+|  resultado = Olá José       |
 +---------------------------+
 */
 
